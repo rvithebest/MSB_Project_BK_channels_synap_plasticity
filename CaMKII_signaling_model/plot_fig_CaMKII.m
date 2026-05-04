@@ -1,4 +1,5 @@
 clear;clc;close all;
+% Parameter values and codes adapted from Aslam et al,2009
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 params.BASAL= 10;
 params.BASAL1= 0.0;
